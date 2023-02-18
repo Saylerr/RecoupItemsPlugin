@@ -1,0 +1,5 @@
+name: RecoupItems
+version: '1.0-SNAPSHOT'
+main: pl.sayler.recoupitems.RecoupItems
+api-version: 1.16
+authors: [ Saylerr ]

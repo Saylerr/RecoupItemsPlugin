@@ -1,0 +1,4 @@
+pl\sayler\recoupitems\listeners\PlayerRespawn.class
+pl\sayler\recoupitems\listeners\PlayerDeath.class
+pl\sayler\recoupitems\RecoupItems.class
+pl\sayler\recoupitems\RecoupItemsManager.class
